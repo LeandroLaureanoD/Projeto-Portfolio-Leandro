@@ -430,7 +430,9 @@ nav#particles-js {
     top: 87%;
     left: 50%;
     transform: translate(-50%, -50%);
+	margin: 15px;
 }
+
 .control {
 	font-size: 20px;
 	border-radius: 10px;
@@ -693,7 +695,8 @@ h3 {
 }
 h5 {
 	text-transform: uppercase;
-    font-weight: bold;
+    /* font-weight: bold; */
+	font-size: 12px;
 }
 li {
 	list-style: none;
